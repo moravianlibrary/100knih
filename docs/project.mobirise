@@ -44,7 +44,7 @@
       }
     ],
     "uniqCompNum": 42,
-    "versionPublish": "5.1.4",
+    "versionPublish": "5.2.0",
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/eodopen-logo-123x86.png",
     "robotsSwitcher": false,
@@ -54,7 +54,8 @@
     "gdpr": false,
     "screenshot": "screenshot.png",
     "cookiesAlert": false,
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-74530605-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-74530605-1');\n</script>"
   },
   "pages": {
     "index.html": {
