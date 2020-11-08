@@ -1630,7 +1630,7 @@ a {
 }
 .cid-sbjc1LtUJM {
   padding-top: 1rem;
-  padding-bottom: 2rem;
+  padding-bottom: 4rem;
   background-color: #ffffff;
 }
 .cid-sbjc1LtUJM .card-wrapper {
@@ -1646,10 +1646,15 @@ a {
   color: #6592e6;
   padding-right: 1.5rem;
 }
+.cid-sfM9yPGxfh {
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+  background-color: #bbbbbb;
+}
 .cid-saJhGuWaNJ {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #232323;
+  background-image: url("../../../assets/images/pozadi-eodopen-tmave-1920x540.png");
 }
 .cid-saJhGuWaNJ .row-links {
   width: 100%;
@@ -2832,7 +2837,7 @@ a {
 .cid-saJhGuWaNJ {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #232323;
+  background-image: url("../../../assets/images/pozadi-eodopen-tmave-1920x540.png");
 }
 .cid-saJhGuWaNJ .row-links {
   width: 100%;
